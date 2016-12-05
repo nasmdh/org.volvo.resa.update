@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.volvo.resa.feature_1.0.0.201612051342.jar" id="org.volvo.resa.feature" version="1.0.0.201612051342"/>
+</site>
